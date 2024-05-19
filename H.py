@@ -1,6 +1,3 @@
-الكود الي استخدمتة بالفيد
-
-
 def LONE():
   uuid = str(os.geteuid()) + str(os.getlogin())
   id = "-".join(uuid)
